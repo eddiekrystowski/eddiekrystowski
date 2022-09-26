@@ -1,16 +1,26 @@
-### Hi there 👋
+# Nice to meet you!
+I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
+
+:seedling: I first discovered my passion for computer science back in 7th grade through Javascript courses on Khan Academy. In the years since, I've learned much more about web development and have become very familiar with languages such as **Javascript**, **Typescript**, **CSS**, and more, as well as other tools like **React** , **Node.js**, and **MongoDB**. My path has helped build my drive to develop free, open-source applications and tools that are easy to use, whether their purpose be educational, time-saving, or something else entirely!
+
+:chess_pawn: Besides software development, I love to play board games of all kinds and play soccer. I haven't played soccer officially since highschool, but being a goalkeeper for my entire childhood helped me develop my leadership and communication skills immensely.
+
+## Links
+
+:baby_chick: [Submitty Summer 2021 Writeup](https://submitty.org/developer/rensselaer_center_for_open_source/2021_Eddie_Krystowski) details my work on Submitty, an open source course management, assignment submission, exam and grading system from the Rensselaer Center for Open Source Software (RCOS), Department of Computer Science at Rensselaer Polytechnic Institute.
+
+
+# Contact Me
+💼 [LinkedIn](https://www.linkedin.com/in/eddie-krystowski-a45b25250?)
+
+📧 Email: [eddiekrystowski@gmail.com](mailto:eddiekrystowski@gmail.com)
 
 <!--
-**eddiekrystowski/eddiekrystowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

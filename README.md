@@ -8,7 +8,7 @@ I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
 - Go
 - Operational Transformation algorithms
 
-:chess_pawn: Besides software development, I love to play board games of all kinds and play soccer. I haven't played soccer officially since highschool, but being a goalkeeper for my entire childhood helped me develop my leadership and communication skills immensely.
+:chess_pawn: Besides software development, I love to play all kinds of board games and play soccer. I haven't played soccer officially since highschool, but being a goalkeeper for my entire childhood helped me develop my leadership and communication skills immensely.
 
 ## Projects/Links
 :baby_chick: [Submitty Summer 2021 Writeup](https://submitty.org/developer/rensselaer_center_for_open_source/2021_Eddie_Krystowski) details my work on Submitty, an open source course management, assignment submission, exam and grading system from the Rensselaer Center for Open Source Software (RCOS), Department of Computer Science at Rensselaer Polytechnic Institute. ([repo](https://github.com/Submitty/Submitty))

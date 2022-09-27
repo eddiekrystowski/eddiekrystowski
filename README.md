@@ -1,7 +1,7 @@
 # Nice to meet you!
 I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
 
-:seedling: I first discovered my passion for computer science back in 7th grade through Javascript courses on Khan Academy. In the years since, I've learned much more about software development and have become very familiar with languages such as **Javascript**, **Typescript**, **CSS**, and more, as well as other tools like **React** , **Node.js**, and **MongoDB**. My path has helped build my drive to develop free, open-source applications and tools that are easy to use, whether their purpose be educational, time-saving, or something else entirely!
+:seedling: I first discovered my passion for computer science back in 7th grade through Javascript courses on Khan Academy. In the years since, I've learned much more about software development and have become very familiar with languages such as **Javascript**, **Typescript**, **CSS**, **Python** and more, as well as other tools like **React** , **Node.js**, and **MongoDB**. My path has helped build my drive to develop free, open-source applications and tools that are easy to use, whether their purpose be educational, time-saving, or something else entirely!
 
 
 :books: I'm currently learning:

@@ -13,7 +13,18 @@ I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
 ## Projects/Links
 :baby_chick: [Submitty Summer 2021 Writeup](https://submitty.org/developer/rensselaer_center_for_open_source/2021_Eddie_Krystowski) details my work on Submitty, an open source course management, assignment submission, exam and grading system from the Rensselaer Center for Open Source Software (RCOS), Department of Computer Science at Rensselaer Polytechnic Institute. ([repo](https://github.com/Submitty/Submitty))
 
- :diamond_shape_with_a_dot_inside: [Argument Diagrams](https://argument-diagram.bram-hub.com/), a web-based educational tool for diagramming argumentative logic. I created this tool for a professor over the summer with a small team, and now it is being used in class! ([repo](https://github.com/joekrystowski/Argument-Diagram))
+![image](https://user-images.githubusercontent.com/28243927/192403340-e8824bcf-ed87-497f-8305-3c91848a894c.png)
+
+---
+ :diamond_shape_with_a_dot_inside: [Argument Diagrams](https://argument-diagram.bram-hub.com/), a web-based educational tool for diagramming argumentative formal logic. Along with a small team, we created this tool for a non-technical professor over the summer of 2021, and now it is being used as an educational resource in class! ([repo](https://github.com/joekrystowski/Argument-Diagram))
+ 
+ ![image](https://user-images.githubusercontent.com/28243927/192403193-4422e32b-7713-47d9-b88d-9c80fa5c5a58.png)
+
+----
+ **Existential Graphs**, an in-progress web-based educational tool for modelling and diagramming existential formal logic.
+
+----
+:desktop_computer: **Computer Graphics Final Project** This project is a simple scene of some generated terrain decorated with various textures, water, trees, lighting, etc. It was created in C++ using OpenGL. To read more about the techniques used, see the [repo](https://github.com/eddiekrystowski/GraphicsFinal).
 
 # Contact Me
 💼 [LinkedIn](https://www.linkedin.com/in/eddie-krystowski-a45b25250?)

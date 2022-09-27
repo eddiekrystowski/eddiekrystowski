@@ -26,6 +26,10 @@ I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
 ----
 :desktop_computer: **Computer Graphics Final Project** This project is a simple scene of some generated terrain decorated with various textures, water, trees, lighting, etc. It was created in C++ using OpenGL. To read more about the techniques used, see the [repo](https://github.com/eddiekrystowski/GraphicsFinal).
 
+![image](https://user-images.githubusercontent.com/28243927/192405711-75a1bfbe-10a7-48d2-b3f9-35946a5ccf6b.png)
+
+![image](https://user-images.githubusercontent.com/65693478/192400698-861732b5-8c66-431e-a5cc-5f4df20a4b58.mp4)
+
 # Contact Me
 💼 [LinkedIn](https://www.linkedin.com/in/eddie-krystowski-a45b25250?)
 

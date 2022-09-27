@@ -28,7 +28,8 @@ I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
 
 ![image](https://user-images.githubusercontent.com/28243927/192405711-75a1bfbe-10a7-48d2-b3f9-35946a5ccf6b.png)
 
-![image](https://user-images.githubusercontent.com/65693478/192400698-861732b5-8c66-431e-a5cc-5f4df20a4b58.mp4)
+https://user-images.githubusercontent.com/28243927/192406035-aeacc4de-f941-46ea-8309-15773bb08f1d.mp4
+
 
 # Contact Me
 💼 [LinkedIn](https://www.linkedin.com/in/eddie-krystowski-a45b25250?)

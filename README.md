@@ -11,7 +11,7 @@ I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
 :chess_pawn: Besides software development, I love to play all kinds of board games and play soccer. I haven't played soccer officially since highschool, but being a goalkeeper for my entire childhood helped me develop my leadership and communication skills immensely.
 
 ## Projects/Links
-:baby_chick: [Submitty Summer 2021 Writeup](https://submitty.org/developer/rensselaer_center_for_open_source/2021_Eddie_Krystowski) details my work on Submitty, an open source course management, assignment submission, exam and grading system from the Rensselaer Center for Open Source Software (RCOS), Department of Computer Science at Rensselaer Polytechnic Institute. ([repo](https://github.com/Submitty/Submitty))
+:baby_chick: [Submitty Summer 2021 Writeup](https://submitty.org/developer/rensselaer_center_for_open_source/2021_Eddie_Krystowski) details my work on Submitty, an open source course management, assignment submission, exam and grading system from the Rensselaer Center for Open Source Software (RCOS), Department of Computer Science at Rensselaer Polytechnic Institute. This site is designed with the Model-View-Controller design pattern. ([repo](https://github.com/Submitty/Submitty))
 
 ![image](https://user-images.githubusercontent.com/28243927/192403340-e8824bcf-ed87-497f-8305-3c91848a894c.png)
 

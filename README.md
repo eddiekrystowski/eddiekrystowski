@@ -24,7 +24,7 @@ I'm **Eddie**, a Junior CS major at Rensselaer Polytechnic Institute.
  **Existential Graphs**, an in-progress web-based educational tool for modeling and diagramming existential formal logic. ([repo](https://github.com/eddiekrystowski/existential-graphs))
 
 ----
-:desktop_computer: **Computer Graphics Final Project** This project is a simple scene of some generated terrain decorated with various textures, water, trees, lighting, etc. It was created in C++ using OpenGL. To read more about the techniques used, see the [repo](https://github.com/eddiekrystowski/GraphicsFinal).
+:desktop_computer: **Computer Graphics Final Project** This two person project is a simple scene of some generated terrain decorated with various textures, water, trees, lighting, etc. It was created in C++ using OpenGL. To read more about the techniques used, see the [repo](https://github.com/eddiekrystowski/GraphicsFinal).
 
 ![image](https://user-images.githubusercontent.com/28243927/192405711-75a1bfbe-10a7-48d2-b3f9-35946a5ccf6b.png)
 
